@@ -1,0 +1,6 @@
+# Settings.Example.Yml
+
+
+# Added 2026-06-04
+log_level: info  # debug | info | warn | error
+max_retries: 3
